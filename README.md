@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Nebula —  AI Chatbot</h1>
+<h1 align="center">Nebula —  AI Chatbot</h1>
 <p align="center">
   <b>Real-time AI chatbot with multimodal capabilities and long-term memory</b><br/>
   <i>Built with MERN, Gemini API, and Pinecone Vector DB</i>
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Overview
+## Overview
 **Nebula** is a full-stack AI chatbot capable of understanding, reasoning, and creating.  
 It uses **short-term and long-term memory (STM + LTM)** to retain chat context and knowledge over time, powered by **Pinecone Vector DB**.
 
@@ -22,7 +22,7 @@ It uses **short-term and long-term memory (STM + LTM)** to retain chat context a
 
 ## ⚙️ Tech Stack
 
-### 🧩 Frontend
+### Frontend
 <p align="left">
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" />
   <img src="https://cdn.simpleicons.org/redux/764ABC" width="40" />
@@ -30,7 +30,7 @@ It uses **short-term and long-term memory (STM + LTM)** to retain chat context a
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" />
 </p>
 
-### 🧠 Backend
+### Backend
 <p align="left">
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" />
   <img src="https://cdn.simpleicons.org/express/000000" width="40" />
@@ -44,7 +44,7 @@ It uses **short-term and long-term memory (STM + LTM)** to retain chat context a
 
 ---
 
-## 🧩 Architecture
+## Architecture
 
 Frontend (React + Redux + Tailwind)
 ↓
@@ -60,7 +60,7 @@ Cloud Storage (Cloudinary)
 
 ---
 
-## 🚀 Highlights
+## Highlights
 - Real-time bi-directional chat (Socket.io)
 - Vector-based knowledge retention (Pinecone)
 - Image understanding and generation
@@ -68,7 +68,7 @@ Cloud Storage (Cloudinary)
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 🔗 **[nebula-1jpx.onrender.com](https://nebula-1jpx.onrender.com)**
 
 > ⚠️ Note: The current version of Nebula is not yet fully responsive and is optimized for desktop view.
